@@ -4,6 +4,6 @@ HL7 Vulcan - 日本のePIマッピング
 ---
 
 # HL7 Vulcan - Japanese ePI Implementation Guide
-This DRAFT Implementation Guide is an extention of the Vulcan ePI project. This IG describes how to create an ePI for Japanese drug labeling and how to map from PMDA's custom XML to ePI's FHIR XML.
+This DRAFT Implementation Guide is an extention of the Vulcan ePI project. This IG describes how to create an ePI for Japanese drug labeling and how to map from PMDA's custom XML to FHIR compliant ePI XML.
 
 https://build.fhir.org/ig/scc88/epi-jp/branches/main/index.html
